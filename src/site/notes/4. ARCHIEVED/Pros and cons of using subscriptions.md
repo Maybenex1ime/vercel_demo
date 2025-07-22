@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-archieved/pros-and-cons-of-using-subscriptions/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/4-archieved/pros-and-cons-of-using-subscriptions/","tags":["game-design"]}
 ---
 
 # Pros: 
